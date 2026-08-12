@@ -81,7 +81,7 @@ This article is a preprint and has not yet been certified by peer review.
 ***
 
 ## Thanks
-* [Maxime Moreaud](https://www.ifpenergiesnouvelles.com/page/maxime-moreaud) who contributed to enhancing the prediction results through his stochastic patch-wise prediction method.
+* [Maxime Moreaud](https://orcid.org/0000-0002-4908-401X) who contributed to enhancing the prediction results through his stochastic patch-wise prediction method.
 
 ***
 
