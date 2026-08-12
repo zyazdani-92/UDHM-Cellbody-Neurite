@@ -67,6 +67,17 @@ Documentation at [https://github.com/zyazdani-92/UDHM-Cellbody-Neurite](https://
 
 Github at [https://github.com/zyazdani-92/UDHM-Cellbody-Neurite](https://github.com/zyazdani-92/UDHM-Cellbody-Neurite)
 
+## Associated Publication
+
+This repository accompanies the following bioRxiv preprint:
+
+Zahra Yazdani, Erik Bélanger, Maxime Moreaud, Jodie Llinares, Antoine Allard, Pierre Marquet, and Patrick Desrosiers. *Graph-based characterization of in vitro neuronal network maturation using machine learning and digital holographic microscopy.* bioRxiv, 2026.
+
+* [View the preprint on bioRxiv](https://www.biorxiv.org/content/10.64898/2026.06.18.732973v1)
+* DOI: [10.64898/2026.06.18.732973](https://doi.org/10.64898/2026.06.18.732973)
+
+This article is a preprint and has not yet been certified by peer review.
+
 ***
 
 ## Thanks
